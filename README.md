@@ -1,4 +1,4 @@
-# in this case, i started with [Learn Anything]{https://github.com/learn-anything/learn-anything} 
+# in this case, i started with [Learn Anything](https://github.com/learn-anything/learn-anything)
 [Learn Anything](https://learn-anything.xyz/) is an open source website to organize world's knowledge with study plans for learning anything.
 
 The goal of the website is to accelerate the rate at which people learn, by giving the most efficient paths one can take to gain full understanding of any given topic.
