@@ -1,7 +1,4 @@
-# [![Learn Anything](media/header.png)](https://learn-anything.xyz/)
-
-# Learn Anything [![Discord](https://img.shields.io/badge/chat-Discord-blue.svg)](https://discord.gg/KKYdWjt) [![Twitter](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_) [![Support](https://img.shields.io/badge/Support%20Us-💗-ff69b4.svg)](https://www.patreon.com/learnanything) [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/learn-anything)
-
+# in this case, i started with [Learn Anything]{https://github.com/learn-anything/learn-anything} 
 [Learn Anything](https://learn-anything.xyz/) is an open source website to organize world's knowledge with study plans for learning anything.
 
 The goal of the website is to accelerate the rate at which people learn, by giving the most efficient paths one can take to gain full understanding of any given topic.
