@@ -1,9 +1,7 @@
 # in this case, i started with [Learn Anything](https://github.com/learn-anything/learn-anything)
 [Learn Anything](https://learn-anything.xyz/) is an open source website to organize world's knowledge with study plans for learning anything.
 
-The goal of the website is to accelerate the rate at which people learn, by giving the most efficient paths one can take to gain full understanding of any given topic.
-
-For more information, you can read our [White Paper](https://github.com/learn-anything/learn-anything/wiki/White-Paper), check [our wiki](https://github.com/learn-anything/learn-anything/wiki), ask questions on [Spectrum](https://spectrum.chat/learn-anything) and join our [Discord server](https://discord.gg/KKYdWjt).
+Check [their wiki](https://github.com/learn-anything/learn-anything/wiki), ask questions on [Spectrum](https://spectrum.chat/learn-anything) and join our [Discord server](https://discord.gg/KKYdWjt).
 
 ## Contributing
 
